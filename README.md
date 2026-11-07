@@ -10,6 +10,7 @@
     <a href="https://kivice.github.io/"><img src="https://img.shields.io/badge/Live_Portfolio-kivice.github.io-0ea5e9?style=for-the-badge&logo=githubpages" alt="GitHub Pages Badge" /></a>
     <a href="https://philip-portfoli.netlify.app/"><img src="https://img.shields.io/badge/Netlify_Mirror-philip--portfoli.netlify.app-00c7b7?style=for-the-badge&logo=netlify" alt="Netlify Badge" /></a>
     <a href="mailto:philipmaina637@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-philipmaina637@gmail.com-ea4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
+    <a href="https://wa.me/254708746611"><img src="https://img.shields.io/badge/WhatsApp-%2B254_708_746_611-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" /></a>
     <img src="https://img.shields.io/badge/Original_Code-100%25-green?style=for-the-badge&logo=github" alt="Clean Code Badge" />
   </p>
 </div>
@@ -101,6 +102,6 @@ Systems & Ops    : Python 3 · Linux Shell · Relational SQL · Docker · Git
 ---
 
 <div align="center">
-  <p>📫 <strong>Get In Touch:</strong> <a href="mailto:philipmaina637@gmail.com">philipmaina637@gmail.com</a> · 🌐 <strong>Portfolio:</strong> <a href="https://kivice.github.io/">kivice.github.io</a> (<a href="https://philip-portfoli.netlify.app/">Netlify Mirror</a>)</p>
+  <p>📫 <strong>Get In Touch:</strong> <a href="mailto:philipmaina637@gmail.com">philipmaina637@gmail.com</a> · 📱 <strong>WhatsApp:</strong> <a href="https://wa.me/254708746611">+254 708 746 611</a> · 🌐 <strong>Portfolio:</strong> <a href="https://kivice.github.io/">kivice.github.io</a> (<a href="https://philip-portfoli.netlify.app/">Netlify Mirror</a>)</p>
   <sub>© 2026 Philip Maina (@Kivice) · Kirinyaga University · Engineered for Performance</sub>
 </div>
