@@ -7,8 +7,9 @@
   </a>
 
   <p>
-    <a href="https://philip-portfoli.netlify.app/"><img src="https://img.shields.io/badge/Live_Portfolio-philip--portfoli.netlify.app-blue?style=for-the-badge&logo=netlify" alt="Portfolio Badge" /></a>
-    <a href="mailto:philipmaina637@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-philipmaina637@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
+    <a href="https://kivice.github.io/"><img src="https://img.shields.io/badge/Live_Portfolio-kivice.github.io-0ea5e9?style=for-the-badge&logo=githubpages" alt="GitHub Pages Badge" /></a>
+    <a href="https://philip-portfoli.netlify.app/"><img src="https://img.shields.io/badge/Netlify_Mirror-philip--portfoli.netlify.app-00c7b7?style=for-the-badge&logo=netlify" alt="Netlify Badge" /></a>
+    <a href="mailto:philipmaina637@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-philipmaina637@gmail.com-ea4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
     <img src="https://img.shields.io/badge/Original_Code-100%25-green?style=for-the-badge&logo=github" alt="Clean Code Badge" />
   </p>
 </div>
@@ -105,6 +106,6 @@ I specialize in building **low-latency tactical AI desktop agents, enterprise ta
 ---
 
 <div align="center">
-  <p>📫 <strong>Get In Touch:</strong> <a href="mailto:philipmaina637@gmail.com">philipmaina637@gmail.com</a> · 🌐 <strong>Portfolio:</strong> <a href="https://philip-portfoli.netlify.app/">philip-portfoli.netlify.app</a></p>
+  <p>📫 <strong>Get In Touch:</strong> <a href="mailto:philipmaina637@gmail.com">philipmaina637@gmail.com</a> · 🌐 <strong>Portfolio:</strong> <a href="https://kivice.github.io/">kivice.github.io</a> (<a href="https://philip-portfoli.netlify.app/">Netlify Mirror</a>)</p>
   <sub>© 2026 Philip Maina (@Kivice) · Engineered for Performance</sub>
 </div>
